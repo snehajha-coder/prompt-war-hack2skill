@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/2f44d943-3261-461b-894e-db4e29a6e16d
+View your app in AI Studio: https://ecovibe.ai.studio/
 
 ## Run Locally
 
