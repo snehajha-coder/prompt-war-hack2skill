@@ -1,0 +1,6 @@
+{
+  "name": "EcoVibe",
+  "description": "A gamified carbon-smart cooking planner and to-do list micro-app that optimizes your daily meals, grocery budgets, and environmental impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
